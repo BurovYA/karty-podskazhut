@@ -91,7 +91,7 @@ button:focus-visible {
   padding: 0;
   color: var(--text-color);
   font-family: inherit;
-  font-size: inherit;
+  font-size: 18px;
   background-color: transparent;
   cursor: pointer;
   appearance: none;
@@ -187,6 +187,7 @@ button:focus-visible {
 .content__picture-caption {
   border-bottom: 1px solid var(--text-color);
   padding-block: 20px;
+  font-size: 18px;
   text-align: center;
 }
 
