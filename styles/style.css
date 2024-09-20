@@ -52,7 +52,7 @@ button:disabled {
 
 a:focus-visible,
 button:focus-visible {
-  outline: 1px solid var(--text-color);
+  outline: 1px solid currentColor;
   outline-offset: 2px;
 }
 
